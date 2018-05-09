@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>DRTASK</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>DRTASK</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">67b838555820130059a6b831cdd54e13</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-09 10:31:32</sys_created_on>
+        <sys_id>e9456d58db021300d963dc50cf961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DRTASK</sys_name>
+        <sys_package display_value="DR" source="x_222594_dr">1145a994db021300d963dc50cf9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DR">1145a994db021300d963dc50cf9619ba</sys_scope>
+        <sys_update_name>sys_wizard_answer_e9456d58db021300d963dc50cf961984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-09 10:31:32</sys_updated_on>
+        <table/>
+        <target_url>x_222594_dr_drtask.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
